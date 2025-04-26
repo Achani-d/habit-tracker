@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+#habit-form {
+  margin-bottom: 20px;
+}
+
+#habit-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.habit-item {
+  margin: 10px 0;
+}
+
+.checked {
+  text-decoration: line-through;
+}
